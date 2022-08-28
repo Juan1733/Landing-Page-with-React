@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card-img-top {
+    width: 18rem;
+    height: 12rem;
+    object-fit: cover;
+}
+.navbar, #footer {
+    background-color: #33383f;
+}
+.nav-link {
+    color: white;
+}
+#jumbotron {
+    background-color: #eaecef;
+    margin-top: 5rem;
+}
+#cards {
+    flex-wrap: wrap;
+}
